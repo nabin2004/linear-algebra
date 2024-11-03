@@ -3,8 +3,8 @@ course_name: Linear Algebra
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Non-credit Winter Classes"
 
-baseurl: "/linearalgebra" # the subpath of your site, e.g. /blog/
-url: "http://nabin2004.github.io/" # the base hostname & protocol for your site
+baseurl: "/linear-algebra" # the subpath of your site, e.g. /blog/
+url: "https://nabin2004.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sunway College Kathmandu"
 schoolurl: "https://sunway.edu.np"
